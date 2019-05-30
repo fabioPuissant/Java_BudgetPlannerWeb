@@ -76,6 +76,4 @@ public class LabelApi {
     private String getConnectionString() {
         return ConnectionStringFactory.getJdbcMysqlConnectionString("192.168.33.22", "StudentDB");
     }
-
-
 }
