@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="BudgetPlannerWeb:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>BudgetPlannerWeb</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="BudgetPlannerWeb.war">
+      <element id="artifact" artifact-name="BudgetPlannerWeb:war exploded" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: be.pxl.student:BudgetPlanner:jdbc.1.0">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/be/pxl/student/BudgetPlanner/jdbc.1.0/BudgetPlanner-jdbc.1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/be/pxl/student/BudgetPlanner/jdbc.1.0/BudgetPlanner-jdbc.1.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/be/pxl/student/BudgetPlanner/jdbc.1.0/BudgetPlanner-jdbc.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
